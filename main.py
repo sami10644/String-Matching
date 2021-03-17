@@ -16,6 +16,7 @@ def mathingWords(sentence1, sentence2):
 
 
 
+
 if __name__ == "__main__":
     # mathingWords("This is good", "python is good")
     sentences = ["python is a good", "this is snake",
